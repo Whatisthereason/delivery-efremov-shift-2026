@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "andorid-intensive-sample"
+rootProject.name = "android-intensive-sample"
 include(":app")

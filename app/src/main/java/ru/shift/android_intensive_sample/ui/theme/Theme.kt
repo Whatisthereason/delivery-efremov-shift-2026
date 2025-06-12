@@ -1,6 +1,5 @@
-package ru.shift.andorid_intensive_sample.ui.theme
+package ru.shift.android_intensive_sample.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
